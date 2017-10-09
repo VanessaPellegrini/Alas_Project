@@ -50,3 +50,9 @@ section#contact {
     color: $theme-danger;
   }
 }
+textarea#message.form-control{
+  border: none;
+}
+input#name.form-control{
+  border: none;
+}

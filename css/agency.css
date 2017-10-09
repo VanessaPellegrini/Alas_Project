@@ -482,6 +482,9 @@ section#contact {
   section#contact .text-danger {
     color: #e74c3c; }
 
+textarea#message.form-control {
+  border: none; }
+
 footer {
   padding: 25px 0;
   text-align: center; }
