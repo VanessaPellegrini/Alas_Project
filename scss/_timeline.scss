@@ -122,6 +122,9 @@
           font-size: 13px;
           line-height: 18px;
           margin-top: 16px;
+          &.historia{
+            font-size: 60%;
+          }
         }
       }
       &.timeline-inverted > .timeline-panel {
@@ -147,6 +150,9 @@
           font-size: 18px;
           line-height: 26px;
           margin-top: 30px;
+          &.historia{
+            font-size: 60%;
+          }
         }
       }
       &.timeline-inverted > .timeline-panel {
@@ -168,6 +174,9 @@
         margin-left: -85px;
         h4 {
           margin-top: 40px;
+          &.historia{
+            font-size: 60%;
+          }
         }
       }
       &.timeline-inverted > .timeline-panel {
